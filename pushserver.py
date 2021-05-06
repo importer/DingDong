@@ -31,7 +31,7 @@ class dingDong(object):
             "notify_type":"2",
             "time_to_live":"1000",
             "pass_through":"0",
-            "notify_id":time.time()+random.uniform(0,1),
+            "notify_id":int(time.time()+random.uniform(0,1)),
             "registration_id":self.regid,
             "extra.notification_style_type":'1',
             "extra.notification_large_icon_uri":"http://t3.market.xiaomi.com/thumcrop/webp/h120/MiPass/0ba0443bd8603fe44a9857385b11d76932541b094/icon.webp?crop=l276r600",
