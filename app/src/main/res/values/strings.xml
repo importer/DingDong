@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">叮咚便签</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">叮咚消息</string>
+    <string name="nav_header_subtitle">叮咚，你有消息请及时查看</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">最新消息</string>
+    <string name="menu_gallery">消息管理</string>
+    <string name="menu_slideshow">标签管理</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="ok">确认</string>
+    <string name="cancel">取消</string>
+    <string name="set_alias">设置别名</string>
+    <string name="unset_alias">撤销别名</string>
+    <string name="set_account">设置帐号</string>
+    <string name="unset_account">撤销帐号</string>
+    <string name="subscribe_topic">订阅标签</string>
+    <string name="unsubscribe_topic">撤销标签</string>
+    <string name="set_accept_time">设置时间</string>
+    <string name="pause_push">暂停推送</string>
+    <string name="resume_push">恢复推送</string>
+    <string name="start_time">开始时间</string>
+    <string name="end_time">结束时间</string>
+    <string name="click_copy">点击复制</string>
+    <string name="copy_to_clip">已复制到剪贴板</string>
+    <string name="register_success">推送注册成功</string>
+    <string name="register_fail">推送注册失败</string>
+    <string name="recv_passthrough_message"> 接收传递消息。内容是: \"%1$s\"</string>
+    <string name="click_notification_message"> 点击推送消息. 内容是: \"%1$s\"</string>
+    <string name="arrive_notification_message"> 收到开心通知消息</string>
+    <string name="set_alias_success"> 设置别名 \"%1$s\" success.</string>
+    <string name="set_alias_fail"> 设置别名失败 %1$s.</string>
+    <string name="unset_alias_success"> 取消设置别名 \"%1$s\" success.</string>
+    <string name="unset_alias_fail"> 取消设置别名失败 %1$s.</string>
+    <string name="set_account_success"> 设置帐户 \"%1$s\" success.</string>
+    <string name="set_account_fail"> 设置帐户失败 %1$s.</string>
+    <string name="unset_account_success"> Unset account \"%1$s\" success.</string>
+    <string name="unset_account_fail"> Unset account fail for %1$s.</string>
+    <string name="subscribe_topic_success"> Subscribe topic \"%1$s\" success.</string>
+    <string name="subscribe_topic_fail"> Subscribe topic fail for %1$s.</string>
+    <string name="unsubscribe_topic_success"> Unsubscribe topic \"%1$s\" success.</string>
+    <string name="unsubscribe_topic_fail"> Unsubscribe topic fail for %1$s.</string>
+    <string name="set_accept_time_success"> 设置接受时间 %1$s - %2$s success.</string>
+    <string name="set_accept_time_fail"> 设置接受时间失败 %1$s.</string>
+    <string name="export_button">导出</string>
+    <string name="menu_tools">消息导出</string>
+
+
+    <string name="note_privacy_and_recycle">私密便签无法直接预览，请先恢复！</string>
+
+    <string name="database_content_one">点击右上角，可以切换视图样式！</string>
+    <string name="database_content_two">长按便签，可以进行批量操作！</string>
+    <string name="database_content_three">在设置中，可以切换主题颜色！</string>
+    <string name="database_content_four">点击右下角，创建新的便签！</string>
+    <string name="database_content_five">
+        推送网址，点此复制网址！请求该网址就可以开始推送啦！\n https://service-mm0wgphf-1258509752.cd.apigw.tencentcs.com/release/APIService-mipushServer/dd/sendmsg?id=%1$s&amp;title=标题(可选值)&amp;msg=测试提交数据
+    </string>
+
+    <string name="dev_say"></string>
+
+    <string name="about_key_to_alipay">to_alipay</string>
+    <string name="about_key_about_dev">about_dev</string>
+    <string name="about_key_to_market">to_market</string>
+    <string name="about_key_check_version">check_version</string>
+    <string name="about_key_to_feedback">to_feekback</string>
+
+    <string name="alipay_qr_code">HTTPS://QR.ALIPAY.COM/A6X03615MGHZ2Y1ZH0X7YE9</string>
+    <string name="my_email">bigbigsman@163.com</string>
+    <string name="github"><u>https://github.com/import</u></string>
+    <string name="jian_shu"><u>http://www.jianshu.com/u/707e22330793</u></string>
+    <string name="csdn"><u>https://blog.csdn.net/weixin_50878488</u></string>
+    <string name="app_github">本软件基于开源项目，地址：<u>https://github.com/ifadai/SuperNote</u></string>
+    <string name="bmob_app_id">6f0681b70098f23f9d2b32f027545961</string>
+
+</resources>
